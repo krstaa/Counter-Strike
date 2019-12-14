@@ -1,0 +1,25 @@
+body
+    {
+        background-image: url(pozina.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        background-position: center;
+    }
+    .st {position: absolute;
+        top: 85%;   right: 47%;}        
+
+     h1 {text-align: center;}
+     h2 {text-align: center;}
+     h3 {text-align: center;}                   
+    
+     h1 {background-color:  #ff704d;}
+     h2 {background-color:#3399ff;}
+     h3 {background-color: floralwhite;}
+
+    .jedan {position: absolute;
+        top: 20%;   right: 47%;}
+    .dva {position: absolute;
+        top:31%; right: 46%;} 
+    .tri {position: absolute;
+        top: 43%;   right: 46.5%;}                
